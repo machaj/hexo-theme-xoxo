@@ -1,17 +1,17 @@
-home: 首页
-categories: 分类
-search: 搜索
-tags: 标签
-tweets: 推文
-prev: 上一页
-next: 下一页
-comment: 留言
-archives: 归档
-page: 第 %d 页
-recent_posts: 最新文章
-close: 关闭
-posts_list: 目录
-about: 关于
-rss: 订阅
-main_site: 主站
-
+home: Domů
+categories: Kategorie
+search: Hledat
+tags: Tagy
+tweets: Tweety
+prev: Předchozí
+next: Další
+comment: Komentáře
+archives: Archív
+page: Stránka
+recent_posts: Nedávné
+close: Zavřít
+posts_list: Příspěvky
+about: O nás
+rss: rss
+main_site: Hlavní stránka
+read_more: Více

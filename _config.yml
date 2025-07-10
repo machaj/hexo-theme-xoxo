@@ -2,16 +2,6 @@
 # html lang
 language: zh-Hans
 
-# main menu navigation
-menu:
-  home: /
-  archives: /archives
-  tags: /tags
-  #categories: /categories
-  search: /search
-  about: https://0xff000000.com
-  rss: /atom.xml
-
 # Miscelaneous
 favicon: /logo.png
 
